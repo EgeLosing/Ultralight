@@ -1,0 +1,13 @@
+C:\Users\Ege\source\repos\SUNRISE_Launcher_UltraLite\Ultralight Launcher\bin\Debug\netcoreapp2.1\Ultralight Launcher.deps.json
+C:\Users\Ege\source\repos\SUNRISE_Launcher_UltraLite\Ultralight Launcher\bin\Debug\netcoreapp2.1\Ultralight Launcher.runtimeconfig.json
+C:\Users\Ege\source\repos\SUNRISE_Launcher_UltraLite\Ultralight Launcher\bin\Debug\netcoreapp2.1\Ultralight Launcher.runtimeconfig.dev.json
+C:\Users\Ege\source\repos\SUNRISE_Launcher_UltraLite\Ultralight Launcher\bin\Debug\netcoreapp2.1\Ultralight Launcher.dll
+C:\Users\Ege\source\repos\SUNRISE_Launcher_UltraLite\Ultralight Launcher\bin\Debug\netcoreapp2.1\Ultralight Launcher.pdb
+C:\Users\Ege\source\repos\SUNRISE_Launcher_UltraLite\Ultralight Launcher\obj\Debug\netcoreapp2.1\Ultralight Launcher.csproj.AssemblyReference.cache
+C:\Users\Ege\source\repos\SUNRISE_Launcher_UltraLite\Ultralight Launcher\obj\Debug\netcoreapp2.1\Ultralight Launcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ege\source\repos\SUNRISE_Launcher_UltraLite\Ultralight Launcher\obj\Debug\netcoreapp2.1\Ultralight Launcher.AssemblyInfoInputs.cache
+C:\Users\Ege\source\repos\SUNRISE_Launcher_UltraLite\Ultralight Launcher\obj\Debug\netcoreapp2.1\Ultralight Launcher.AssemblyInfo.cs
+C:\Users\Ege\source\repos\SUNRISE_Launcher_UltraLite\Ultralight Launcher\obj\Debug\netcoreapp2.1\Ultralight Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Ege\source\repos\SUNRISE_Launcher_UltraLite\Ultralight Launcher\obj\Debug\netcoreapp2.1\Ultralight Launcher.dll
+C:\Users\Ege\source\repos\SUNRISE_Launcher_UltraLite\Ultralight Launcher\obj\Debug\netcoreapp2.1\Ultralight Launcher.pdb
+C:\Users\Ege\source\repos\SUNRISE_Launcher_UltraLite\Ultralight Launcher\obj\Debug\netcoreapp2.1\Ultralight Launcher.genruntimeconfig.cache
