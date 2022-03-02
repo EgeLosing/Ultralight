@@ -1,0 +1,12 @@
+C:\Users\Ege\source\repos\SUNRISE_Launcher_UltraLite\SUNRISE_Launcher_UltraLite\bin\Debug\SUNRISE_Launcher_UltraLite.exe.config
+C:\Users\Ege\source\repos\SUNRISE_Launcher_UltraLite\SUNRISE_Launcher_UltraLite\bin\Debug\SUNRISE_Launcher_UltraLite.exe
+C:\Users\Ege\source\repos\SUNRISE_Launcher_UltraLite\SUNRISE_Launcher_UltraLite\bin\Debug\SUNRISE_Launcher_UltraLite.pdb
+C:\Users\Ege\source\repos\SUNRISE_Launcher_UltraLite\SUNRISE_Launcher_UltraLite\obj\Debug\SUNRISE_Launcher_UltraLite.csproj.AssemblyReference.cache
+C:\Users\Ege\source\repos\SUNRISE_Launcher_UltraLite\SUNRISE_Launcher_UltraLite\obj\Debug\SUNRISE_Launcher_UltraLite.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ege\source\repos\SUNRISE_Launcher_UltraLite\SUNRISE_Launcher_UltraLite\obj\Debug\SUNRISE_Launcher_UltraLite.Properties.Resources.resources
+C:\Users\Ege\source\repos\SUNRISE_Launcher_UltraLite\SUNRISE_Launcher_UltraLite\obj\Debug\SUNRISE_Launcher_UltraLite.csproj.GenerateResource.cache
+C:\Users\Ege\source\repos\SUNRISE_Launcher_UltraLite\SUNRISE_Launcher_UltraLite\obj\Debug\SUNRISE_Launcher_UltraLite.csproj.CoreCompileInputs.cache
+C:\Users\Ege\source\repos\SUNRISE_Launcher_UltraLite\SUNRISE_Launcher_UltraLite\obj\Debug\SUNRISE_Launcher_UltraLite.exe
+C:\Users\Ege\source\repos\SUNRISE_Launcher_UltraLite\SUNRISE_Launcher_UltraLite\obj\Debug\SUNRISE_Launcher_UltraLite.pdb
+C:\Users\Ege\source\repos\SUNRISE_Launcher_UltraLite\SUNRISE_Launcher_UltraLite\obj\Debug\SUNRISE_Launcher_UltraLite.Form1.resources
+C:\Users\Ege\source\repos\SUNRISE_Launcher_UltraLite\SUNRISE_Launcher_UltraLite\obj\Debug\SUNRISE_Launcher_UltraLite.LaunchPage.resources
