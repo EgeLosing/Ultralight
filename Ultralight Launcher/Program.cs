@@ -26,7 +26,7 @@ namespace Ultralight_Launcher
                     ScreenWidth = 1280,
                     ScreenHeight = 720,
                     Session = MSession.GetOfflineSession(args[1]),
-                    ServerIp = "193.164.7.186",
+                    ServerIp = "yourenotsupposedtosee",
                     GameLauncherName = "Ultralight",
                     FullScreen = false,
                 };
