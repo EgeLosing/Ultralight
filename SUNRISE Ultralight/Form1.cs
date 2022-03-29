@@ -51,7 +51,7 @@ namespace SUNRISE_Launcher_UltraLite
                     }
                     else
                     {
-                        if (textBox1.Text.ToLower() == "EgeLosing".ToLower() || textBox1.Text.ToLower() == "MrSpikePvP".ToLower())
+                        if (textBox1.Text.ToLower() == "EgeLosing".ToLower())
                         {
                             if (yourenotsupposedtosee))
                             {
