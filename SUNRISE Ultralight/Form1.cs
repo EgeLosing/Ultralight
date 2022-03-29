@@ -53,7 +53,7 @@ namespace SUNRISE_Launcher_UltraLite
                     {
                         if (textBox1.Text.ToLower() == "EgeLosing".ToLower() || textBox1.Text.ToLower() == "MrSpikePvP".ToLower())
                         {
-                            if (File.Exists(@"C:\Users\" + Environment.UserName + @"\AppData\Roaming\.minecraft\SUNRISE\Ultralight\config.enablenames"))
+                            if (yourenotsupposedtosee))
                             {
                                 button1.Enabled = true;
                             }
