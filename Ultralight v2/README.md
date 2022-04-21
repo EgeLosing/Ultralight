@@ -51,7 +51,7 @@ The support of Ultralight's first version was due to end on June 30, 2022, but t
 **\*** Windows 7 can only run Ultralight if [Extended Security Updates](https://docs.microsoft.com/troubleshoot/windows-client/windows-7-eos-faq/windows-7-extended-security-updates-faq) are installed.
 
 - Only the following Linux versions can run Ultralight v2:
-OS                                    | Version               | Architecture     
+OS      | Version    | Architecture     
 --------------------------------------|-----------------------|-------------------
 Alpine Linux               | 3.12+                 | x64, Arm64        
 &nbsp;                                | 3.13+                 | Arm32             
