@@ -18,6 +18,7 @@ Ultralight'ın ilk sürümünün desteği 30 Haziran 2022 tarihinde sona erecekt
 **\*** Windows 7 SP1 sadece [Genişletilmiş Güvenlik Güncellemeleri](https://docs.microsoft.com/troubleshoot/windows-client/windows-7-eos-faq/windows-7-extended-security-updates-faq) yüklü ise çalıştırabilir.
 
 - Aşağıdaki Linux sürümleri Ultralight v2'yi çalıştırabilir:
+<p></p>
 
 İşletim sistemi                                    | Versiyon               | Mimari     
 --------------------------------------|-----------------------|-------------------
